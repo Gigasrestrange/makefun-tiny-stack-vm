@@ -1,0 +1,6 @@
+Stack VM for make.fun's tiny ISA. `main.ts` runs each /input/<id>/program.bin on input.bin and writes /output/<id>/stdout.bin and exit.txt. One switch over opcodes; every wrap, trap and limit of ISA.md. Run: `node main.ts`. MIT.
+
+[![make.fun · tiny-stack-vm-01-run-20261122](https://make.fun/badge/tiny-stack-vm-01-run-20261122.svg)](https://make.fun/bounty/tiny-stack-vm-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=tiny-stack-vm-01-run-20261122)
+[![rank](https://make.fun/badge/tiny-stack-vm-01-run-20261122/Gigasrestrange/makefun-tiny-stack-vm/rank.svg)](https://make.fun/bounty/tiny-stack-vm-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-stack-vm-01-run-20261122)
+[![reward](https://make.fun/badge/tiny-stack-vm-01-run-20261122/Gigasrestrange/makefun-tiny-stack-vm/reward.svg)](https://make.fun/bounty/tiny-stack-vm-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=tiny-stack-vm-01-run-20261122)
+
